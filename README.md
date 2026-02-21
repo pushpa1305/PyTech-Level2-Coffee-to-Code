@@ -19,11 +19,11 @@ DATASET SOURCE:
   --The project uses a local text file (data.txt) as the dataset to store book records.
 
 Each record contains:
-Book ID
-Title
-Author
-Issued To (student name if issued)
-Return Status
+Book ID||
+Title||
+Author|| 
+Issued To (student name if issued)||
+Return Status||
 The file is automatically created and updated by the program if it does not exist.
 -------------------------------------------------------------------
 HOW TO RUN THE PROJECT:
