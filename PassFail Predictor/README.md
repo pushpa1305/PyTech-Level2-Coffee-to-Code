@@ -21,7 +21,9 @@ Source: Kaggle (Students Performance in Exams dataset)
 
 1. Download the dataset `StudentsPerformance.csv` and place it in the project folder.
 2. Install the required libraries:
+
    pip install pandas scikit-learn
-3. Run the program using:
-   py main.py
-4. Enter Math, Reading, and Writing scores when prompted to get the Pass/Fail prediction.
+4. Run the program using:
+
+    py main.py
+6. Enter Math, Reading, and Writing scores when prompted to get the Pass/Fail prediction.
