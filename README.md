@@ -6,10 +6,10 @@ PROBLEM CHOSEN:
  --Managing a library manually can be time-consuming and error-prone.
  --This project solves the problem by providing a command-line based Library Management System that allows users to:
 
-Add new books
-Issue books to students
-Return issued books
-Delete books
+Add new books,,
+Issue books to students,,
+Return issued books,,
+Delete books,,
 View all available books
 
 The system ensures proper tracking of issued and returned books using a structured text file.
