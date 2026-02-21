@@ -1,7 +1,0 @@
-Book ID  Title                Author          Issued To       Return Status
---------------------------------------------------------------------------------
-100     It ends with us     Coollen Hoover Harshitha      Not Returned   
-101     Twisted love        Ana Huang      Available      --             
-102     Haunting Adeline    H D Cartlon    Available      --             
-103     Ice Breaker         Hannah Grace   sahithi        Not Returned   
-104     Pride and Prejudice Jane Austen    Available      --             
