@@ -13,19 +13,15 @@ A Logistic Regression model is trained on the dataset to perform this classifica
 ## Dataset Source
 
 The dataset used is **StudentsPerformance.csv**, which contains student scores in Math, Reading, and Writing.
+
+
 Source: Kaggle (Students Performance in Exams dataset)
 
 ## How to Run the Project
 
 1. Download the dataset `StudentsPerformance.csv` and place it in the project folder.
 2. Install the required libraries:
-
-   ```
    pip install pandas scikit-learn
-   ```
 3. Run the program using:
-
-   ```
    py main.py
-   ```
 4. Enter Math, Reading, and Writing scores when prompted to get the Pass/Fail prediction.
